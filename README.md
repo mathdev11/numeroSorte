@@ -1,1 +1,3 @@
-# numeroSorte
+#NumeroSorte
+
+Utilização de JavaScript
